@@ -10,3 +10,9 @@ dftoy
 *.dat
 
 vallog
+
+# Build directory
+build/
+# Platform configuration files
+config/*
+!config/template.mk
